@@ -1,8 +1,8 @@
 {
   "name": "talevuek",
-  "version": "0.0.3",
+  "version": "0.1.1",
   "description": "Native CDD experience made just for Nuxt",
-  "repository": "",
+  "repository": "https://github.com/stasoft91/TaleVuek",
   "license": "MIT",
   "contributors": [
     {
