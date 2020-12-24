@@ -6,5 +6,11 @@ module.exports = {
   srcDir: __dirname,
   modules: [
     { handler: require('../') }
-  ]
+  ],
+  build: {
+    extend (config) {
+      config.resolve.alias.talevuek = resolve(__dirname, '..')
+      config.resolve.alias['@'] = resolve(__dirname)
+    }
+  }
 }
