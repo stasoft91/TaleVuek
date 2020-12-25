@@ -1,3 +1,4 @@
+import { text } from 'talevuek/lib/knobs/knobs'
 import SimpleComponent from './index.vue'
 
 export default {
@@ -5,6 +6,10 @@ export default {
   component: SimpleComponent,
   category: 'Simples',
   knobs: {
-    title: 'text'
+    title: text('default'),
+    deep: {
+      deepParam: text('deepDefault'),
+      deepParam2: text('deepDefault2')
+    }
   }
 }
