@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [0.2.10](https://github.com/stasoft91/TaleVuek/compare/v0.2.9...v0.2.10) (2020-12-25)
+
+
+### Features
+
+* **core:** update ([99602c6](https://github.com/stasoft91/TaleVuek/commit/99602c6194d302cc9de7e0f2b1f4e5451ff2c301))
+
 ### [0.2.9](https://github.com/stasoft91/TaleVuek/compare/v0.2.8...v0.2.9) (2020-12-24)
 
 ### [0.2.8](https://github.com/stasoft91/TaleVuek/compare/v0.2.7...v0.2.8) (2020-12-24)
