@@ -59,6 +59,7 @@ export default {
     recurseWalkKnobs (property, path) {
       if (path === undefined) {
         this.knobs = []
+        this.knobValues = {}
         path = ''
       }
 
