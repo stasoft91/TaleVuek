@@ -12,5 +12,8 @@ module.exports = {
       config.resolve.alias.talevuek = resolve(__dirname, '..')
       config.resolve.alias['@'] = resolve(__dirname)
     }
+  },
+  talevuek: {
+    enabled: true
   }
 }

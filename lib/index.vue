@@ -16,6 +16,7 @@
 <script>
 import textKnob from 'talevuek/lib/knobs/textKnob.vue'
 import booleanKnob from 'talevuek/lib/knobs/booleanKnob.vue'
+import 'buefy/dist/buefy.css'
 
 export default {
   components: {

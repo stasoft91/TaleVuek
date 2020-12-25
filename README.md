@@ -13,7 +13,7 @@
 1. Add `talevuek` dependency to your project
 
 ```bash
-yarn add talevuek # or npm install talevuek
+yarn add --dev talevuek # or npm install --dev talevuek
 ```
 
 2. Add `talevuek` to the `modules` section of `nuxt.config.js`
@@ -26,7 +26,10 @@ yarn add talevuek # or npm install talevuek
 
     // With options
     ['talevuek', { /* module options */ }]
-  ]
+  ], 
+  talevuek: {
+    enabled: true  // use some process.env.NODE_ENV ternary here
+  }
 }
 ```
 
