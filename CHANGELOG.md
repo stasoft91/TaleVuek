@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [0.3.2](https://github.com/stasoft91/TaleVuek/compare/v0.3.1...v0.3.2) (2020-12-25)
+
+
+### Bug Fixes
+
+* **core:** clear properties on component change ([eff3772](https://github.com/stasoft91/TaleVuek/commit/eff37723c6c969dd0e70d614fa2d544fd9d14423))
+
 ### [0.3.1](https://github.com/stasoft91/TaleVuek/compare/v0.2.11...v0.3.1) (2020-12-25)
 
 
