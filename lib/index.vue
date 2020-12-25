@@ -15,10 +15,12 @@
 
 <script>
 import textKnob from 'talevuek/lib/knobs/textKnob.vue'
+import booleanKnob from 'talevuek/lib/knobs/booleanKnob.vue'
 
 export default {
   components: {
-    textKnob
+    textKnob,
+    booleanKnob
   },
   layout: 'talevuek-layout',
   options: {
